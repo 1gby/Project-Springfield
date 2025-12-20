@@ -1,6 +1,7 @@
 {
   "name": "Project Springfield",
   "identifier": "com.ea.main.simpsonssocial.inc2",
+  "iconURL": "https://i.imgur.com/LJGqJ6B.png",
   "apps": [
     {
       "name": "Project Springfield",
