@@ -18,6 +18,41 @@
         "https://i.redd.it/z5ex5nb546hf1.png",
         "https://preview.redd.it/project-springfield-discord-v0-6vmi63zuoq8f1.jpeg?auto=webp&s=2dfe52cd1492f72be40907491fec5f24ab16d71d"
       ]
+    },
+    {
+      "name": "Unicorn Mod",
+      "bundleIdentifier": "com.ea.unicorn.simpsonssocial.inc2",
+      "developerName": "Dractiums (Jeafke & Rudeboy™ Originally)",
+      "subtitle": "Mod your Springfield! 🦄",
+      "localizedDescription": "Fan-remade server for The Simpsons: Tapped Out with everything the game had. 100% free with unlimited donuts, instant builds, active events, and more.",
+      "version": "4.70.5",
+      "versionDate": "2025-12-18",
+      "versionDescription": "Unicorn is God mode. Do not use unless level 60+. This is a powerful mod!",
+      "downloadURL": "https://cdn.projectspringfield.com/downloads/Unicorn-v07-Gamemode.ipa",
+      "iconURL": "https://i.imgur.com/Of8AhEE.png",
+      "size": 52428800,
+      "screenshotURLs": [
+        "https://i.redd.it/z5ex5nb546hf1.png",
+        "https://preview.redd.it/project-springfield-discord-v0-6vmi63zuoq8f1.jpeg?auto=webp&s=2dfe52cd1492f72be40907491fec5f24ab16d71d",
+        "https://github-production-user-asset-6210df.s3.amazonaws.com/67002163/455875788-bfaef5e1-bf60-4f98-97d1-ef976f331738.png"
+      ]
+    },
+    {
+      "name": "Taps",
+      "bundleIdentifier": "com.ea.taps.simpsonssocial.inc2",
+      "developerName": "Project Springfield (Originally EA)",
+      "subtitle": "Build your own Springfield! 🍩",
+      "localizedDescription": "End version of the game. Store has every item & Cletus farm has farmable donuts.",
+      "version": "4.70.5",
+      "versionDate": "2025-12-18",
+      "versionDescription": "End version of the game. Store has every item & Cletus farm has farmable donuts.",
+      "downloadURL": "https://cdn.projectspringfield.com/downloads/Taps-v07-Gamemode.ipa",
+      "iconURL": "https://cdn2.steamgriddb.com/icon_thumb/4f84a95e8ca56263b409972d9d158c3e.png",
+      "size": 52428800,
+      "screenshotURLs": [
+        "https://i.redd.it/z5ex5nb546hf1.png",
+        "https://preview.redd.it/project-springfield-discord-v0-6vmi63zuoq8f1.jpeg?auto=webp&s=2dfe52cd1492f72be40907491fec5f24ab16d71d"
+      ]
     }
   ],
   "news": []
