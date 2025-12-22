@@ -2,6 +2,11 @@
   "name": "Project Springfield",
   "identifier": "com.ea.main.simpsonssocial.inc2",
   "iconURL": "https://i.imgur.com/LJGqJ6B.png",
+  "tintColor": "FFD700",
+  "userInfo": {
+    "discordURL": "https://discord.gg/Ktuy5XmNNa",
+    "websiteURL": "https://teamtsto.org"
+  },
   "apps": [
     {
       "name": "Project Springfield",
@@ -59,5 +64,22 @@
       ]
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Three Versions Now Available! 🎉",
+      "identifier": "three-versions-launch",
+      "caption": "Choose your playstyle: Standard for everyone, Unicorn for God mode (level 60+), or Taps for the complete end-game experience!",
+      "date": "2025-12-21",
+      "tintColor": "FFD700",
+      "notify": false
+    },
+    {
+      "title": "Welcome to Project Springfield!",
+      "identifier": "welcome-message",
+      "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
+      "date": "2025-12-18",
+      "tintColor": "87CEEB",
+      "notify": false
+    }
+  ]
 }
