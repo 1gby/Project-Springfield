@@ -72,4 +72,16 @@
       "date": "2025-12-21",
       "tintColor": "FFD700",
       "imageURL": "https://i.imgur.com/CYgx3ey.png",
-      "notify": false​​​​​​​​​​​​​​​​
+      "notify": false
+    },
+    {
+      "title": "Welcome to Project Springfield!",
+      "identifier": "welcome-message",
+      "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
+      "date": "2025-12-18",
+      "tintColor": "87CEEB",
+      "imageURL": "https://i.imgur.com/o1fcuY7.png",
+      "notify": false
+    }
+  ]
+}
