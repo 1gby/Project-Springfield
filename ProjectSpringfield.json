@@ -9,9 +9,9 @@
   },
   "apps": [
     {
-      "name": "Project Springfield",
+      "name": "Springfield",
       "bundleIdentifier": "com.ea.simpsonssocial.inc2",
-      "developerName": "BodNJenie (EA Originally)",
+      "developerName": "Project Springfield - Powered & Coded by BodNJenie (EA Originally)",
       "subtitle": "Standard Version 🍩",
       "localizedDescription": "Fan-remade server for The Simpsons: Tapped Out. 100% free with unlimited donuts, instant builds, active events, and more.",
       "version": "4.70.5",
@@ -29,7 +29,7 @@
     {
       "name": "Unicorn Mod",
       "bundleIdentifier": "com.ea.unicorn.simpsonssocial.inc2",
-      "developerName": "Dractiums (Jeafke & Rudeboy™ Originally)",
+      "developerName": "Dractiums (Jeafke, Rudeboy™ & Tapper Originally)",
       "subtitle": "Modding Version 🦄",
       "localizedDescription": "Fan-remade server for The Simpsons: Tapped Out with everything the game had. 100% free with unlimited donuts, instant builds, active events, and more.",
       "version": "4.70.5",
@@ -48,7 +48,7 @@
     {
       "name": "Taps",
       "bundleIdentifier": "com.ea.taps.simpsonssocial.inc2",
-      "developerName": "Project Springfield (Originally EA)",
+      "developerName": "Project Springfield - Powered & Coded by BodNJenie (Originally EA)",
       "subtitle": "End Game Version 👇",
       "localizedDescription": "End version of the game. Store has every item & Cletus farm has farmable donuts.",
       "version": "4.70.5",
@@ -72,7 +72,7 @@
       "date": "2025-12-21",
       "tintColor": "FFD700",
       "imageURL": "https://i.imgur.com/CYgx3ey.png",
-      "notify": true
+      "notify": false
     },
     {
       "title": "Project Springfield 👋",
