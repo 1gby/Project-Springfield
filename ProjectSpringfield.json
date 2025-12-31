@@ -3,6 +3,9 @@
   "identifier": "com.ea.main.simpsonssocial.inc2",
   "iconURL": "https://i.imgur.com/Rc1hQ3Y.jpeg",
   "tintColor": "FFD700",
+  "featuredApps": [
+    "com.ea.simpsonssocial.inc2"
+  ],
   "userInfo": {
     "discordURL": "https://discord.gg/Ktuy5XmNNa",
     "websiteURL": "https://teamtsto.org"
