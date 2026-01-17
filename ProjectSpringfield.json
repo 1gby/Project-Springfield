@@ -27,10 +27,8 @@
           "https://i.redd.it/z5ex5nb546hf1.png",
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
-          // Replace these with your actual landscape URLs, e.g.:
-          // { "imageURL": "https://cdn.../springfield_landscape_1.png", "width": 2556, "height": 1179 }
         ],
-        "ipad": []  // Add landscape iPad screenshots here if ready, e.g. { "imageURL": "...", "width": 2388, "height": 1668 }
+        "ipad": []
       },
       "versions": [
         {
@@ -67,7 +65,6 @@
           "https://i.redd.it/z5ex5nb546hf1.png",
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
-          // → replace with landscape versions
         ],
         "ipad": []
       },
@@ -107,7 +104,6 @@
           "https://i.imgur.com/KEUuljI.png",
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
-          // → replace with landscape versions
         ],
         "ipad": []
       },
