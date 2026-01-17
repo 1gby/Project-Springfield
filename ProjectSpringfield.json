@@ -3,7 +3,7 @@
   "subtitle": "Project Springfields Apps",
   "description": "Welcome to Project Springfield’s source! Here you'll find all 3 of our apps.",
   "iconURL": "https://i.imgur.com/Rc1hQ3Y.jpeg",
-  "website": "https://discord.gg/Ktuy5XmNNa",
+  "websiteURL": "https://discord.gg/Ktuy5XmNNa",
   "patreonURL": "",
   "tintColor": "#FFD700",
   "featuredApps": [
@@ -16,14 +16,13 @@
     {
       "name": "Springfield",
       "bundleIdentifier": "com.ea.main.simpsonssocial.inc2",
-      "marketplaceID": "",
       "developerName": "Project Springfield - Powered & Coded by BodNJenie (EA Originally)",
       "subtitle": "Standard Version 🍩",
       "localizedDescription": "The #1 Fan-remade server for The Simpsons: Tapped Out. 100% free with access to live active events, unlimited donuts, instant builds, and more.",
       "iconURL": "https://i.imgur.com/rgu5oac.png",
       "tintColor": "#f8ca20",
       "category": "games",
-      "screenshots": [
+      "screenshotURLs": [
         "https://i.redd.it/z5ex5nb546hf1.png",
         "https://i.imgur.com/MTtgecK.png",
         "https://i.imgur.com/v3nT7I0.png"
@@ -35,8 +34,7 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Springfield-v07-Gamemode.ipa",
           "size": 52428800,
-          "buildVersion": null,
-          "minOSVersion": null
+          "sha256": "6fd91df0c939080aa6c1a4526a34d4892f8e7b53164f885fa9d2692ec2384d91"
         }
       ],
       "appPermissions": {
@@ -47,20 +45,18 @@
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
           "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "Taps",
       "bundleIdentifier": "com.ea.taps.simpsonssocial.inc2",
-      "marketplaceID": "",
       "developerName": "Project Springfield - Powered & Coded by BodNJenie (Originally EA)",
       "subtitle": "End Game Version 👇",
       "localizedDescription": "Last version before EA shut it down. Access to all previously released event items. Still need to progress through the questline like normal. No access to events (because you have all their rewards in the shop already). Cletus' farm can harvest donuts. Golden Goose Realty gives 5 tiles / 12h instead of 1. Can buy shattered dream tokens. Has more store categories.",
       "iconURL": "https://i.imgur.com/sqdkqdB.png",
       "tintColor": "#04b4a4",
       "category": "other",
-      "screenshots": [
+      "screenshotURLs": [
         "https://i.redd.it/z5ex5nb546hf1.png",
         "https://i.imgur.com/MTtgecK.png",
         "https://i.imgur.com/v3nT7I0.png"
@@ -72,8 +68,7 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Taps-v07-Gamemode.ipa",
           "size": 52428800,
-          "buildVersion": null,
-          "minOSVersion": null
+          "sha256": "9383241a4012a595e3025021b0eaaef5a74e818f50a0735400a488e4f9cc91c1"
         }
       ],
       "appPermissions": {
@@ -84,20 +79,18 @@
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
           "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
         }
-      },
-      "patreon": {}
+      }
     },
     {
       "name": "Unicorn",
       "bundleIdentifier": "com.ea.unicorn.simpsonssocial.inc2",
-      "marketplaceID": "",
       "developerName": "Mod Maintained by Dractiums (Jeafke, Rudeboy™ & Tapper Originally)",
       "subtitle": "Modded Version 🦄",
       "localizedDescription": "Do not play before lvl 60. Cheat engine/god mode. Quests are disabled (so play from other versions). Access to everything, modded menu to find things faster, a search for unique items, even level-locked things & more! Has a button to farm donuts or can go through the store. Skilled users should only use this mod as it's powerful.",
       "iconURL": "https://i.imgur.com/FkSX9MO.png",
       "tintColor": "#fccc3c",
       "category": "other",
-      "screenshots": [
+      "screenshotURLs": [
         "https://i.redd.it/z5ex5nb546hf1.png",
         "https://i.imgur.com/KEUuljI.png",
         "https://i.imgur.com/MTtgecK.png",
@@ -110,8 +103,7 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Unicorn-v07-Gamemode.ipa",
           "size": 52428800,
-          "buildVersion": null,
-          "minOSVersion": null
+          "sha256": "cc16eeac59363a272aa53a4c3381ee7da83a3ee01764d5da64f5ba08e2e9b363"
         }
       ],
       "appPermissions": {
@@ -122,8 +114,7 @@
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
           "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": [
