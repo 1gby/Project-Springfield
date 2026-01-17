@@ -42,7 +42,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment"
+        ],
         "privacy": {
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
@@ -80,7 +82,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment"
+        ],
         "privacy": {
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
@@ -119,7 +123,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment"
+        ],
         "privacy": {
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
