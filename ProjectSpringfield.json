@@ -4,7 +4,6 @@
   "description": "Welcome to Project Springfield's source! Here you'll find all 3 of our apps.",
   "iconURL": "https://i.imgur.com/Rc1hQ3Y.jpeg",
   "websiteURL": "https://discord.gg/Ktuy5XmNNa",
-  "patreonURL": "",
   "tintColor": "#FFD700",
   "featuredApps": [
     "com.ea.main.simpsonssocial.inc2",
@@ -22,13 +21,11 @@
       "iconURL": "https://i.imgur.com/rgu5oac.png",
       "tintColor": "#f8ca20",
       "category": "games",
-      "screenshots": {
-        "iphone": [
-          "https://i.redd.it/z5ex5nb546hf1.png",
-          "https://i.imgur.com/MTtgecK.png",
-          "https://i.imgur.com/v3nT7I0.png"
-        ]
-      },
+      "screenshots": [
+        "https://i.redd.it/z5ex5nb546hf1.png",
+        "https://i.imgur.com/MTtgecK.png",
+        "https://i.imgur.com/v3nT7I0.png"
+      ],
       "versions": [
         {
           "version": "4.70.5",
@@ -36,7 +33,6 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Springfield-v07-Gamemode.ipa",
           "size": 64906854,
-          "sha256": "6fd91df0c939080aa6c1a4526a34d4892f8e7b53164f885fa9d2692ec2384d91",
           "minOSVersion": "13.0"
         }
       ],
@@ -61,13 +57,11 @@
       "iconURL": "https://i.imgur.com/sqdkqdB.png",
       "tintColor": "#04b4a4",
       "category": "games",
-      "screenshots": {
-        "iphone": [
-          "https://i.redd.it/z5ex5nb546hf1.png",
-          "https://i.imgur.com/MTtgecK.png",
-          "https://i.imgur.com/v3nT7I0.png"
-        ]
-      },
+      "screenshots": [
+        "https://i.redd.it/z5ex5nb546hf1.png",
+        "https://i.imgur.com/MTtgecK.png",
+        "https://i.imgur.com/v3nT7I0.png"
+      ],
       "versions": [
         {
           "version": "4.70.5",
@@ -75,7 +69,6 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Taps-v07-Gamemode.ipa",
           "size": 48549069,
-          "sha256": "9383241a4012a595e3025021b0eaaef5a74e818f50a0735400a488e4f9cc91c1",
           "minOSVersion": "13.0"
         }
       ],
@@ -100,14 +93,12 @@
       "iconURL": "https://i.imgur.com/FkSX9MO.png",
       "tintColor": "#fccc3c",
       "category": "games",
-      "screenshots": {
-        "iphone": [
-          "https://i.redd.it/z5ex5nb546hf1.png",
-          "https://i.imgur.com/KEUuljI.png",
-          "https://i.imgur.com/MTtgecK.png",
-          "https://i.imgur.com/v3nT7I0.png"
-        ]
-      },
+      "screenshots": [
+        "https://i.redd.it/z5ex5nb546hf1.png",
+        "https://i.imgur.com/KEUuljI.png",
+        "https://i.imgur.com/MTtgecK.png",
+        "https://i.imgur.com/v3nT7I0.png"
+      ],
       "versions": [
         {
           "version": "4.70.5",
@@ -115,7 +106,6 @@
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn.projectspringfield.com/downloads/Unicorn-v07-Gamemode.ipa",
           "size": 64906854,
-          "sha256": "cc16eeac59363a272aa53a4c3381ee7da83a3ee01764d5da64f5ba08e2e9b363",
           "minOSVersion": "13.0"
         }
       ],
@@ -137,7 +127,7 @@
       "title": "All 3 Versions Now Available!",
       "identifier": "three-versions-launch",
       "caption": "Choose your playstyle: Standard for everyone, Unicorn for God mode (level 60+), or Taps for the complete end-game experience!",
-      "date": "2026-01-02T17:00",
+      "date": "2026-01-02T17:00:00Z",
       "tintColor": "#FFD700",
       "imageURL": "https://i.imgur.com/CYgx3ey.png",
       "notify": false,
@@ -148,7 +138,7 @@
       "title": "Project Springfield 👋",
       "identifier": "welcome-message",
       "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
-      "date": "2026-01-02T17:00",
+      "date": "2026-01-02T17:00:00Z",
       "tintColor": "#8addff",
       "imageURL": "https://i.imgur.com/o1fcuY7.png",
       "notify": false,
