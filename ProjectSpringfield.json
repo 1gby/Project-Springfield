@@ -1,7 +1,7 @@
 {
   "name": "Project Springfield",
   "subtitle": "Project Springfields Apps",
-  "description": "Welcome to Project Springfield’s source! Here you'll find all 3 of our apps.",
+  "description": "Welcome to Project Springfield's source! Here you'll find all 3 of our apps.",
   "iconURL": "https://i.imgur.com/Rc1hQ3Y.jpeg",
   "websiteURL": "https://discord.gg/Ktuy5XmNNa",
   "patreonURL": "",
@@ -28,7 +28,11 @@
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
         ],
-        "ipad": []
+        "ipad": [
+          "https://i.redd.it/z5ex5nb546hf1.png",
+          "https://i.imgur.com/MTtgecK.png",
+          "https://i.imgur.com/v3nT7I0.png"
+        ]
       },
       "versions": [
         {
@@ -49,7 +53,7 @@
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
-          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
+          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we're so excited to have you play the game!"
         }
       }
     },
@@ -68,7 +72,11 @@
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
         ],
-        "ipad": []
+        "ipad": [
+          "https://i.redd.it/z5ex5nb546hf1.png",
+          "https://i.imgur.com/MTtgecK.png",
+          "https://i.imgur.com/v3nT7I0.png"
+        ]
       },
       "versions": [
         {
@@ -89,7 +97,7 @@
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
-          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
+          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we're so excited to have you play the game!"
         }
       }
     },
@@ -109,7 +117,12 @@
           "https://i.imgur.com/MTtgecK.png",
           "https://i.imgur.com/v3nT7I0.png"
         ],
-        "ipad": []
+        "ipad": [
+          "https://i.redd.it/z5ex5nb546hf1.png",
+          "https://i.imgur.com/KEUuljI.png",
+          "https://i.imgur.com/MTtgecK.png",
+          "https://i.imgur.com/v3nT7I0.png"
+        ]
       },
       "versions": [
         {
@@ -130,7 +143,7 @@
           "NSContactsUsageDescription": "To invite your contacts to play.",
           "NSPhotoLibraryAddUsageDescription": "To save images to the Photo Library",
           "NSPhotoLibraryUsageDescription": "To save images to the Photo Library",
-          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we’re so excited to have you play the game!"
+          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, and helps us to improve the app. If disabled, third-party logins will not work. Whichever option you choose, we're so excited to have you play the game!"
         }
       }
     }
