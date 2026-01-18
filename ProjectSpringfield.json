@@ -71,22 +71,22 @@
   ],
   "news": [
     {
-      "title": "Project Springfield 👋",
-      "identifier": "welcome-message",
-      "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
-      "date": "2026-01-02",
-      "tintColor": "8addff",
-      "imageURL": "https://i.imgur.com/o1fcuY7.png",
-      "url": "https://discord.gg/Ktuy5XmNNa",
-      "notify": false
-    },
-    {
       "title": "All 3 Versions Now Available!",
       "identifier": "three-versions-launch",
       "caption": "Choose your playstyle: Standard for everyone, Unicorn for God mode (level 60+), or Taps for the complete end-game experience!",
       "date": "2026-01-02",
       "tintColor": "FFD700",
       "imageURL": "https://i.imgur.com/CYgx3ey.png",
+      "url": "https://discord.gg/Ktuy5XmNNa",
+      "notify": false
+    },
+    {
+      "title": "Project Springfield 👋",
+      "identifier": "welcome-message",
+      "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
+      "date": "2026-01-02",
+      "tintColor": "8addff",
+      "imageURL": "https://i.imgur.com/o1fcuY7.png",
       "url": "https://discord.gg/Ktuy5XmNNa",
       "notify": false
     }
